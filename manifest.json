@@ -1,6 +1,6 @@
 {
-  "name": "Chat Global Supabase",
-  "short_name": "ChatGlobal",
+  "name": "Messages Group Supabase",
+  "short_name": "MessagesGroup",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#111111",
